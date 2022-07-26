@@ -1,0 +1,84 @@
+{% extends 'layout.jinja2' %}
+
+{% block styles %}
+    <link
+            rel="stylesheet"
+            href="{{ url_for('static', filename='css/forms.css') }}"
+            type="text/css"
+    />
+{% endblock %}
+
+{% block content %}
+
+<div class="form-wrapper">
+    <h2 class="title text-center">Search for trip offers</h2>
+
+    <form method="POST" action="{{ url_for('bookinghotel') }}">
+
+       <fieldset class="form-field">
+      {{ form.depart_city.label }}
+      {{ form.depart_city }}
+        {% if form.depart_city.errors %}
+        <ul class="errors">
+          {% for error in form.depart_city.errors %}
+            <li>{{ error }}</li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+      </fieldset>
+
+      <fieldset class="form-field">
+      {{ form.destination_city.label }}
+      {{ form.destination_city }}
+        {% if form.destination_city.errors %}
+        <ul class="errors">
+          {% for error in form.destination_city.errors %}
+            <li>{{ error }}</li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+      </fieldset>
+
+     
+
+      <fieldset class="form-field">
+        {{ form.departure_date.label }}
+        {{ form.departure_date }}
+        {% if form.departure_date.errors %}
+          <ul class="errors">
+            {% for error in form.departure_date.errors %}
+              <li>{{ error }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </fieldset>
+
+       <fieldset class="form-field">
+        {{ form.arrival_date.label }}
+        {{ form.arrival_date }}
+        {% if form.arrival_date.errors %}
+          <ul class="errors">
+            {% for error in form.arrival_date.errors %}
+              <li>{{ error }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </fieldset>
+      
+      <fieldset class="form-field">
+        {{ form.number_pers.label }}
+        {{ form.number_pers }}
+        {% if form.number_pers.errors %}
+          <ul class="errors">
+            {% for error in form.number_pers.errors %}
+              <li>{{ error }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </fieldset>
+
+      {{ form.submit }}
+
+      </form>
+  </div>
+{% endblock %}

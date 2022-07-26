@@ -1,0 +1,38 @@
+
+{% extends 'layout.jinja2' %}
+
+{% block content %}
+  <h3>
+   {{ plans|length }} trip plans -
+  <small class="text-muted"> dès {{plans[-1].total|round(2)}}€ </small>
+</h3>
+  <div class='row card-group'>
+  {% for plan in plans %}
+    <div class="col-4">
+      <div class="card h-100">
+        <embed
+          src="{{ plan.hotel.thumbnail_image }}"
+          class="card-img-top"
+          alt="..."
+        />
+        <div class="card-body">
+          <h5 class="card-title">{{ plan.hotel.name }}</h5>
+              <h4 class="font-weight-bold blue-text">
+                  <strong>
+                     {{plan.total|round(2)}} €
+                  </strong>
+              </h4>
+          <p class="card-text">
+          {{ ",".join(plan.hotel.details.important_facilities) }}
+          </p>
+         <a href="{{ url_for('plandetail', id=plan.id) }}" class="btn btn-success">Voir l'offre +</a>
+        </div>
+        <div class="card-footer">
+          <small class="text-muted">Last updated 3 mins ago</small>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+  </div>
+
+{% endblock %}

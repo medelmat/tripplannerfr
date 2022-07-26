@@ -1,0 +1,143 @@
+{% extends 'layout.jinja2' %}
+{% block styles %}
+
+  <style type="text/css">
+  	
+  	.card-img-top {
+  	    width: 100%;
+  	    height: 12vw;
+  	    object-fit: cover;
+  	}
+
+
+  </style>
+
+{% endblock %}
+{% block content %}
+
+	<div class="container text-center">
+		<div class="row">
+			<div class="col scroll">
+      			<div class="card">
+              <div class="card-header font-weight-bold">Votre hotel<i class="airplane"></i></div>
+      			  <img src="{{plan.hotel.thumbnail_image}}" class="card-img-top" alt="...">
+      			    <div class="card-body">
+      			      <h5 class="card-title">{{plan.hotel.name}}</h5>
+      			      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      			       <div id="accordion">
+                        
+                       <div class="card">
+                         <div class="card-header" id="headingOne">
+                           <h5 class="mb-0">
+                             <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                               Services offerts
+                             </button>
+                           </h5>
+                         </div>
+
+                         <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion" style="overflow: hidden;">
+                           <div class="card-body">
+                              {% for service in plan.hotel.details.services_offered %}
+                                 <strong>{{ service.type }}</strong>
+                                 <p>{{ ",".join(service.value) }}</p>
+
+                              {% endfor %}
+                           </div>
+                         </div>
+                       </div>
+
+                     </div>
+                     <br>
+      			     <div class="accordion" id="accordionExample">
+      			     	<h5>Chambres</h5>
+      			       {% for room in plan.hotel.details.rooms %}
+      			       <div class="card">
+      			         <div class="card-header" id="heading{{loop.index}}">
+      			           <h2 class="mb-0">
+      			             <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse{{loop.index}}" aria-expanded="true" aria-controls="collapse{{loop.index}}">
+      			               {{room.name or "Chambre sans nom"}}
+      			             </button>
+      			           </h2>
+      			         </div>
+
+      			         <div id="collapse{{loop.index}}" class="collapse show" aria-labelledby="heading{{loop.index}}" data-parent="#accordionExample" style="overflow: hidden;">
+      			           <div class="card-body">
+      			             <p>Lits : {{ ",".join(room.beds) }}</p> 
+      			             <p>Conditions : {{ ",".join(room.conditions)}}</p>
+      			             <strong>Price : {{ room.price }}</strong>
+      			             <p>Disponibilité : {{room.availability}}</p>
+      			           </div>
+      			         </div>
+      			       </div>
+      			       {% endfor %}
+      			     </div>
+      			    <img src="http://maps.googleapis.com/maps/api/staticmap?center={{plan.hotel.details.latitude}},{{plan.hotel.details.longitude}}&zoom=11&size=200x200&sensor=false">
+
+      			      <a href="{{plan.hotel.link}}" class="btn btn-primary">Book hotel {{plan.hotel.price}} €</a>
+      			    </div>
+
+      			</div>
+    		</div>
+    		<div class="col">
+
+    			<div class="card">
+    			<div class="card-header font-weight-bold">Votre Flight<i class="airplane"></i></div>
+                   <div class="card-body">
+                     <h6>Aller : {{plan.flight.outbound.duration[2:]}}</h6>
+
+                     {% for step in plan.flight.outbound.steps %}
+
+                     	<ul class="list-group flex-md-row flex-fill">
+                       		<li class="list-group-item">Départ : {{step[0]}}</li>
+                       		<li class="list-group-item">Destination : {{step[1]}}</li>
+                       		<li class="list-group-item">durée : {{step[2][2:]}}</li>
+                     	</ul>
+                     {% endfor %}
+                     <h6>retour : {{plan.flight.return.duration[2:]}}</h6>
+       				{% for step in plan.flight.return.steps %}
+
+       					<ul class="list-group flex-md-row flex-fill">
+                       		<li class="list-group-item">Départ : {{step[0]}}</li>
+                       		<li class="list-group-item">Destination : {{step[1]}}</li>
+                       		<li class="list-group-item">durée : {{step[2][2:]}}</li>
+                     	</ul>
+       				{% endfor %}
+
+                     <a href="#" class="btn btn-primary">Book flight {{plan.flight.price }} €</a>
+                   </div>
+               </div>
+
+               <div class="bd-example" style="width: 100%">
+               	<div class="card">
+    			<div class="card-header font-weight-bold">Meilleurs Restaurants de la ville</div>
+    			</div>
+                 <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+                   <ol class="carousel-indicators">
+                     <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+                     <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+                     <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+                   </ol>
+                   <div class="carousel-inner">
+                   	{% for restaurant in plan.restaurants %}
+                     <div class="carousel-item {{'active ' if loop.index == 1 else ''}}">
+                       <img src="{{restaurant.thumbnail_image}}" class="d-block w-100" alt="{{'First' if loop.index == 1 else 'Second' if loop.index == 2 else 'Third'}} slide">
+                       <div class="carousel-caption d-none d-md-block">
+                         <h5 class="bg-dark text-white">{{restaurant.name}}</h5><p class="bg-warning"><i class="star-fill"></i>{{restaurant.score}} - ({{restaurant.reviews}} reviews)</p><p class="bg-light text-dark"><i class="geo-alt"></i>{{restaurant.details.address}}</p><p class="bg-success text-white">{{restaurant.cuisine}}</p>
+                       </div>
+                     </div>
+					{% endfor %}                    
+                   </div>
+                   <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                     <span class="sr-only">Previous</span>
+                   </a>
+                   <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                     <span class="sr-only">Next</span>
+                   </a>
+                 </div>
+               </div>
+   			 </div>
+   		</div>
+   		
+{% endblock %}

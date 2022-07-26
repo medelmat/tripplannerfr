@@ -1,0 +1,7312 @@
+[
+    {
+        "id": "1",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT1H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT1H55M"
+                ]
+            ]
+        },
+        "price": "115.55",
+        "availability": 4
+    },
+    {
+        "id": "2",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT1H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT1H55M"
+                ]
+            ]
+        },
+        "price": "115.55",
+        "availability": 9
+    },
+    {
+        "id": "3",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 9
+    },
+    {
+        "id": "4",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 9
+    },
+    {
+        "id": "5",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 9
+    },
+    {
+        "id": "6",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 9
+    },
+    {
+        "id": "7",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 9
+    },
+    {
+        "id": "8",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 9
+    },
+    {
+        "id": "9",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 9
+    },
+    {
+        "id": "10",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 7
+    },
+    {
+        "id": "11",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 7
+    },
+    {
+        "id": "12",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 7
+    },
+    {
+        "id": "13",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 7
+    },
+    {
+        "id": "14",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 7
+    },
+    {
+        "id": "15",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 7
+    },
+    {
+        "id": "16",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 7
+    },
+    {
+        "id": "17",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 8
+    },
+    {
+        "id": "18",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 8
+    },
+    {
+        "id": "19",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 8
+    },
+    {
+        "id": "20",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 8
+    },
+    {
+        "id": "21",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 8
+    },
+    {
+        "id": "22",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 8
+    },
+    {
+        "id": "23",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 8
+    },
+    {
+        "id": "24",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 8
+    },
+    {
+        "id": "25",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 8
+    },
+    {
+        "id": "26",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 8
+    },
+    {
+        "id": "27",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 8
+    },
+    {
+        "id": "28",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 8
+    },
+    {
+        "id": "29",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 8
+    },
+    {
+        "id": "30",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 8
+    },
+    {
+        "id": "31",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 5
+    },
+    {
+        "id": "32",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 5
+    },
+    {
+        "id": "33",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 5
+    },
+    {
+        "id": "34",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 5
+    },
+    {
+        "id": "35",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 5
+    },
+    {
+        "id": "36",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 5
+    },
+    {
+        "id": "37",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "117.55",
+        "availability": 5
+    },
+    {
+        "id": "38",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT1H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT1H55M"
+                ]
+            ]
+        },
+        "price": "125.55",
+        "availability": 4
+    },
+    {
+        "id": "39",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT1H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT1H55M"
+                ]
+            ]
+        },
+        "price": "125.55",
+        "availability": 8
+    },
+    {
+        "id": "40",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT1H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT1H55M"
+                ]
+            ]
+        },
+        "price": "125.55",
+        "availability": 9
+    },
+    {
+        "id": "41",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT1H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT1H55M"
+                ]
+            ]
+        },
+        "price": "125.55",
+        "availability": 4
+    },
+    {
+        "id": "42",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT1H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT1H55M"
+                ]
+            ]
+        },
+        "price": "125.55",
+        "availability": 9
+    },
+    {
+        "id": "43",
+        "outbound": {
+            "duration": "PT4H35M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H30M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "44",
+        "outbound": {
+            "duration": "PT4H40M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H30M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "45",
+        "outbound": {
+            "duration": "PT4H40M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H30M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "46",
+        "outbound": {
+            "duration": "PT4H35M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H40M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "47",
+        "outbound": {
+            "duration": "PT4H40M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H40M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "48",
+        "outbound": {
+            "duration": "PT4H40M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H40M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "49",
+        "outbound": {
+            "duration": "PT4H35M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "50",
+        "outbound": {
+            "duration": "PT4H40M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "51",
+        "outbound": {
+            "duration": "PT4H40M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "52",
+        "outbound": {
+            "duration": "PT4H35M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H20M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "53",
+        "outbound": {
+            "duration": "PT4H35M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H20M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "54",
+        "outbound": {
+            "duration": "PT4H40M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H20M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "55",
+        "outbound": {
+            "duration": "PT4H40M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H20M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "56",
+        "outbound": {
+            "duration": "PT4H40M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H20M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "57",
+        "outbound": {
+            "duration": "PT4H40M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H20M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "58",
+        "outbound": {
+            "duration": "PT6H40M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H30M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "59",
+        "outbound": {
+            "duration": "PT6H45M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H30M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "60",
+        "outbound": {
+            "duration": "PT4H35M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT6H40M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "61",
+        "outbound": {
+            "duration": "PT4H35M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT6H40M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "62",
+        "outbound": {
+            "duration": "PT6H40M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H40M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "63",
+        "outbound": {
+            "duration": "PT4H40M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT6H40M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "64",
+        "outbound": {
+            "duration": "PT4H40M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT6H40M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "65",
+        "outbound": {
+            "duration": "PT4H40M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT6H40M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "66",
+        "outbound": {
+            "duration": "PT4H40M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT6H40M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "67",
+        "outbound": {
+            "duration": "PT6H45M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H40M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "68",
+        "outbound": {
+            "duration": "PT6H40M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "69",
+        "outbound": {
+            "duration": "PT6H45M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "70",
+        "outbound": {
+            "duration": "PT4H35M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT7H15M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "130.27",
+        "availability": 9
+    },
+    {
+        "id": "71",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT1H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT1H55M"
+                ]
+            ]
+        },
+        "price": "135.55",
+        "availability": 8
+    },
+    {
+        "id": "72",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT1H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT1H55M"
+                ]
+            ]
+        },
+        "price": "135.55",
+        "availability": 9
+    },
+    {
+        "id": "73",
+        "outbound": {
+            "duration": "PT5H10M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H30M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "153.27",
+        "availability": 3
+    },
+    {
+        "id": "74",
+        "outbound": {
+            "duration": "PT5H10M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H40M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "153.27",
+        "availability": 3
+    },
+    {
+        "id": "75",
+        "outbound": {
+            "duration": "PT5H10M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "153.27",
+        "availability": 3
+    },
+    {
+        "id": "76",
+        "outbound": {
+            "duration": "PT5H10M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H20M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "153.27",
+        "availability": 3
+    },
+    {
+        "id": "77",
+        "outbound": {
+            "duration": "PT5H10M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H20M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "153.27",
+        "availability": 3
+    },
+    {
+        "id": "78",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "171.74",
+        "availability": 9
+    },
+    {
+        "id": "79",
+        "outbound": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "171.74",
+        "availability": 9
+    },
+    {
+        "id": "80",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "171.74",
+        "availability": 7
+    },
+    {
+        "id": "81",
+        "outbound": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "171.74",
+        "availability": 7
+    },
+    {
+        "id": "82",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "171.74",
+        "availability": 8
+    },
+    {
+        "id": "83",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "171.74",
+        "availability": 8
+    },
+    {
+        "id": "84",
+        "outbound": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "171.74",
+        "availability": 8
+    },
+    {
+        "id": "85",
+        "outbound": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "171.74",
+        "availability": 8
+    },
+    {
+        "id": "86",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "171.74",
+        "availability": 5
+    },
+    {
+        "id": "87",
+        "outbound": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "171.74",
+        "availability": 5
+    },
+    {
+        "id": "88",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "175.55",
+        "availability": 9
+    },
+    {
+        "id": "89",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "175.55",
+        "availability": 9
+    },
+    {
+        "id": "90",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "175.55",
+        "availability": 9
+    },
+    {
+        "id": "91",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "175.55",
+        "availability": 9
+    },
+    {
+        "id": "92",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "175.55",
+        "availability": 9
+    },
+    {
+        "id": "93",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "175.55",
+        "availability": 9
+    },
+    {
+        "id": "94",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "175.55",
+        "availability": 9
+    },
+    {
+        "id": "95",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "180.55",
+        "availability": 9
+    },
+    {
+        "id": "96",
+        "outbound": {
+            "duration": "PT5H35M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "190.65",
+        "availability": 5
+    },
+    {
+        "id": "97",
+        "outbound": {
+            "duration": "PT5H35M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "190.65",
+        "availability": 5
+    },
+    {
+        "id": "98",
+        "outbound": {
+            "duration": "PT5H35M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT9H",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H35M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "191.28",
+        "availability": 9
+    },
+    {
+        "id": "99",
+        "outbound": {
+            "duration": "PT5H",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H15M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "191.45",
+        "availability": 5
+    },
+    {
+        "id": "100",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "192.55",
+        "availability": 9
+    },
+    {
+        "id": "101",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "192.55",
+        "availability": 9
+    },
+    {
+        "id": "102",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "192.55",
+        "availability": 9
+    },
+    {
+        "id": "103",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "192.55",
+        "availability": 9
+    },
+    {
+        "id": "104",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "192.55",
+        "availability": 9
+    },
+    {
+        "id": "105",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "192.55",
+        "availability": 9
+    },
+    {
+        "id": "106",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "192.55",
+        "availability": 9
+    },
+    {
+        "id": "107",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "192.55",
+        "availability": 9
+    },
+    {
+        "id": "108",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "192.55",
+        "availability": 9
+    },
+    {
+        "id": "109",
+        "outbound": {
+            "duration": "PT5H10M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H30M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "196.27",
+        "availability": 5
+    },
+    {
+        "id": "110",
+        "outbound": {
+            "duration": "PT5H10M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H40M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "196.27",
+        "availability": 5
+    },
+    {
+        "id": "111",
+        "outbound": {
+            "duration": "PT5H10M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "196.27",
+        "availability": 5
+    },
+    {
+        "id": "112",
+        "outbound": {
+            "duration": "PT5H10M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H20M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "196.27",
+        "availability": 5
+    },
+    {
+        "id": "113",
+        "outbound": {
+            "duration": "PT5H10M",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H20M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "196.27",
+        "availability": 5
+    },
+    {
+        "id": "114",
+        "outbound": {
+            "duration": "PT5H35M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "196.65",
+        "availability": 9
+    },
+    {
+        "id": "115",
+        "outbound": {
+            "duration": "PT5H35M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "196.65",
+        "availability": 9
+    },
+    {
+        "id": "116",
+        "outbound": {
+            "duration": "PT5H35M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "196.65",
+        "availability": 9
+    },
+    {
+        "id": "117",
+        "outbound": {
+            "duration": "PT5H35M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "196.65",
+        "availability": 9
+    },
+    {
+        "id": "118",
+        "outbound": {
+            "duration": "PT5H",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H15M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "197.45",
+        "availability": 9
+    },
+    {
+        "id": "119",
+        "outbound": {
+            "duration": "PT5H",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H15M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "197.45",
+        "availability": 9
+    },
+    {
+        "id": "120",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "203.55",
+        "availability": 9
+    },
+    {
+        "id": "121",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "203.55",
+        "availability": 9
+    },
+    {
+        "id": "122",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "203.55",
+        "availability": 9
+    },
+    {
+        "id": "123",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "203.55",
+        "availability": 9
+    },
+    {
+        "id": "124",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "203.55",
+        "availability": 9
+    },
+    {
+        "id": "125",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "203.55",
+        "availability": 9
+    },
+    {
+        "id": "126",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "203.55",
+        "availability": 9
+    },
+    {
+        "id": "127",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "203.55",
+        "availability": 9
+    },
+    {
+        "id": "128",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "203.55",
+        "availability": 9
+    },
+    {
+        "id": "129",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "203.55",
+        "availability": 9
+    },
+    {
+        "id": "130",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "203.55",
+        "availability": 9
+    },
+    {
+        "id": "131",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "203.55",
+        "availability": 9
+    },
+    {
+        "id": "132",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "203.55",
+        "availability": 9
+    },
+    {
+        "id": "133",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "203.55",
+        "availability": 9
+    },
+    {
+        "id": "134",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "203.55",
+        "availability": 9
+    },
+    {
+        "id": "135",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "203.55",
+        "availability": 9
+    },
+    {
+        "id": "136",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "203.55",
+        "availability": 9
+    },
+    {
+        "id": "137",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "203.55",
+        "availability": 9
+    },
+    {
+        "id": "138",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "203.55",
+        "availability": 9
+    },
+    {
+        "id": "139",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "203.55",
+        "availability": 9
+    },
+    {
+        "id": "140",
+        "outbound": {
+            "duration": "PT2H15M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "211.02",
+        "availability": 5
+    },
+    {
+        "id": "141",
+        "outbound": {
+            "duration": "PT5H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H15M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "214.45",
+        "availability": 5
+    },
+    {
+        "id": "142",
+        "outbound": {
+            "duration": "PT2H15M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "217.02",
+        "availability": 9
+    },
+    {
+        "id": "143",
+        "outbound": {
+            "duration": "PT2H15M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "217.02",
+        "availability": 9
+    },
+    {
+        "id": "144",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "217.55",
+        "availability": 9
+    },
+    {
+        "id": "145",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "217.55",
+        "availability": 9
+    },
+    {
+        "id": "146",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "217.55",
+        "availability": 9
+    },
+    {
+        "id": "147",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "217.55",
+        "availability": 9
+    },
+    {
+        "id": "148",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "217.55",
+        "availability": 9
+    },
+    {
+        "id": "149",
+        "outbound": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "217.55",
+        "availability": 9
+    },
+    {
+        "id": "150",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "ORY",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "217.55",
+        "availability": 9
+    },
+    {
+        "id": "151",
+        "outbound": {
+            "duration": "PT5H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H15M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "220.45",
+        "availability": 9
+    },
+    {
+        "id": "152",
+        "outbound": {
+            "duration": "PT5H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H15M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "220.45",
+        "availability": 9
+    },
+    {
+        "id": "153",
+        "outbound": {
+            "duration": "PT5H",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H20M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "222.45",
+        "availability": 5
+    },
+    {
+        "id": "154",
+        "outbound": {
+            "duration": "PT2H15M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "226.02",
+        "availability": 5
+    },
+    {
+        "id": "155",
+        "outbound": {
+            "duration": "PT5H35M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "price": "227.65",
+        "availability": 9
+    },
+    {
+        "id": "156",
+        "outbound": {
+            "duration": "PT5H35M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "price": "227.65",
+        "availability": 9
+    },
+    {
+        "id": "157",
+        "outbound": {
+            "duration": "PT5H",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H20M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "228.45",
+        "availability": 9
+    },
+    {
+        "id": "158",
+        "outbound": {
+            "duration": "PT5H",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H20M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "228.45",
+        "availability": 9
+    },
+    {
+        "id": "159",
+        "outbound": {
+            "duration": "PT5H",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H15M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "price": "228.45",
+        "availability": 9
+    },
+    {
+        "id": "160",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "229.74",
+        "availability": 9
+    },
+    {
+        "id": "161",
+        "outbound": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "229.74",
+        "availability": 9
+    },
+    {
+        "id": "162",
+        "outbound": {
+            "duration": "PT2H15M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "232.02",
+        "availability": 8
+    },
+    {
+        "id": "163",
+        "outbound": {
+            "duration": "PT2H15M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "232.02",
+        "availability": 8
+    },
+    {
+        "id": "164",
+        "outbound": {
+            "duration": "PT5H20M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "241.65",
+        "availability": 5
+    },
+    {
+        "id": "165",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "242.02",
+        "availability": 5
+    },
+    {
+        "id": "166",
+        "outbound": {
+            "duration": "PT5H20M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "247.65",
+        "availability": 9
+    },
+    {
+        "id": "167",
+        "outbound": {
+            "duration": "PT5H20M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "247.65",
+        "availability": 9
+    },
+    {
+        "id": "168",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "248.02",
+        "availability": 9
+    },
+    {
+        "id": "169",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "248.02",
+        "availability": 9
+    },
+    {
+        "id": "170",
+        "outbound": {
+            "duration": "PT2H15M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "price": "248.02",
+        "availability": 9
+    },
+    {
+        "id": "171",
+        "outbound": {
+            "duration": "PT5H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H15M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "price": "251.45",
+        "availability": 9
+    },
+    {
+        "id": "172",
+        "outbound": {
+            "duration": "PT4H30M",
+            "steps": [
+                [
+                    "CDG",
+                    "ZRH",
+                    "PT1H15M"
+                ],
+                [
+                    "ZRH",
+                    "MAD",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT12H40M",
+            "steps": [
+                [
+                    "MAD",
+                    "ZRH",
+                    "PT2H15M"
+                ],
+                [
+                    "ZRH",
+                    "CDG",
+                    "PT1H30M"
+                ]
+            ]
+        },
+        "price": "253.24",
+        "availability": 9
+    },
+    {
+        "id": "173",
+        "outbound": {
+            "duration": "PT5H",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H20M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "price": "259.45",
+        "availability": 9
+    },
+    {
+        "id": "174",
+        "outbound": {
+            "duration": "PT6H35M",
+            "steps": [
+                [
+                    "CDG",
+                    "BRU",
+                    "PT55M"
+                ],
+                [
+                    "BRU",
+                    "MAD",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT13H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "BRU",
+                    "PT2H15M"
+                ],
+                [
+                    "BRU",
+                    "CDG",
+                    "PT55M"
+                ]
+            ]
+        },
+        "price": "260.38",
+        "availability": 9
+    },
+    {
+        "id": "175",
+        "outbound": {
+            "duration": "PT2H15M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "price": "263.02",
+        "availability": 8
+    },
+    {
+        "id": "176",
+        "outbound": {
+            "duration": "PT5H30M",
+            "steps": [
+                [
+                    "CDG",
+                    "FCO",
+                    "PT2H5M"
+                ],
+                [
+                    "FCO",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H30M",
+            "steps": [
+                [
+                    "MAD",
+                    "FCO",
+                    "PT2H25M"
+                ],
+                [
+                    "FCO",
+                    "CDG",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "price": "264.88",
+        "availability": 9
+    },
+    {
+        "id": "177",
+        "outbound": {
+            "duration": "PT5H30M",
+            "steps": [
+                [
+                    "CDG",
+                    "FCO",
+                    "PT2H5M"
+                ],
+                [
+                    "FCO",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H50M",
+            "steps": [
+                [
+                    "MAD",
+                    "FCO",
+                    "PT2H30M"
+                ],
+                [
+                    "FCO",
+                    "CDG",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "price": "264.88",
+        "availability": 9
+    },
+    {
+        "id": "178",
+        "outbound": {
+            "duration": "PT5H35M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H50M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H25M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "265.28",
+        "availability": 3
+    },
+    {
+        "id": "179",
+        "outbound": {
+            "duration": "PT5H35M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H50M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H25M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "265.28",
+        "availability": 3
+    },
+    {
+        "id": "180",
+        "outbound": {
+            "duration": "PT5H35M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H25M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "265.28",
+        "availability": 3
+    },
+    {
+        "id": "181",
+        "outbound": {
+            "duration": "PT5H35M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H25M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "265.28",
+        "availability": 3
+    },
+    {
+        "id": "182",
+        "outbound": {
+            "duration": "PT5H",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H15M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H50M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H25M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "266.08",
+        "availability": 3
+    },
+    {
+        "id": "183",
+        "outbound": {
+            "duration": "PT5H",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H15M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H25M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "266.08",
+        "availability": 3
+    },
+    {
+        "id": "184",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "271.74",
+        "availability": 9
+    },
+    {
+        "id": "185",
+        "outbound": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H",
+            "steps": [
+                [
+                    "MAD",
+                    "ORY",
+                    "PT2H"
+                ]
+            ]
+        },
+        "price": "271.74",
+        "availability": 9
+    },
+    {
+        "id": "186",
+        "outbound": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "274.02",
+        "availability": 5
+    },
+    {
+        "id": "187",
+        "outbound": {
+            "duration": "PT5H20M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "price": "278.65",
+        "availability": 9
+    },
+    {
+        "id": "188",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "price": "279.02",
+        "availability": 9
+    },
+    {
+        "id": "189",
+        "outbound": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "280.02",
+        "availability": 9
+    },
+    {
+        "id": "190",
+        "outbound": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "price": "280.02",
+        "availability": 9
+    },
+    {
+        "id": "191",
+        "outbound": {
+            "duration": "PT2H15M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H50M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H25M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "285.65",
+        "availability": 3
+    },
+    {
+        "id": "192",
+        "outbound": {
+            "duration": "PT2H15M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H25M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "285.65",
+        "availability": 3
+    },
+    {
+        "id": "193",
+        "outbound": {
+            "duration": "PT5H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H15M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H50M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H25M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "289.08",
+        "availability": 3
+    },
+    {
+        "id": "194",
+        "outbound": {
+            "duration": "PT5H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H15M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H25M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "289.08",
+        "availability": 3
+    },
+    {
+        "id": "195",
+        "outbound": {
+            "duration": "PT5H",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H30M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "295.91",
+        "availability": 9
+    },
+    {
+        "id": "196",
+        "outbound": {
+            "duration": "PT5H",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H40M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "295.91",
+        "availability": 9
+    },
+    {
+        "id": "197",
+        "outbound": {
+            "duration": "PT5H",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "295.91",
+        "availability": 9
+    },
+    {
+        "id": "198",
+        "outbound": {
+            "duration": "PT5H",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H20M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "295.91",
+        "availability": 9
+    },
+    {
+        "id": "199",
+        "outbound": {
+            "duration": "PT5H",
+            "steps": [
+                [
+                    "ORY",
+                    "LIS",
+                    "PT2H30M"
+                ],
+                [
+                    "LIS",
+                    "MAD",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H20M",
+            "steps": [
+                [
+                    "MAD",
+                    "LIS",
+                    "PT1H20M"
+                ],
+                [
+                    "LIS",
+                    "ORY",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "price": "295.91",
+        "availability": 9
+    },
+    {
+        "id": "200",
+        "outbound": {
+            "duration": "PT5H",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H20M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H50M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H25M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "297.08",
+        "availability": 3
+    },
+    {
+        "id": "201",
+        "outbound": {
+            "duration": "PT5H",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H20M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H25M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "297.08",
+        "availability": 3
+    },
+    {
+        "id": "202",
+        "outbound": {
+            "duration": "PT2H15M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H50M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H25M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "300.65",
+        "availability": 3
+    },
+    {
+        "id": "203",
+        "outbound": {
+            "duration": "PT2H15M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H25M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "300.65",
+        "availability": 3
+    },
+    {
+        "id": "204",
+        "outbound": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "price": "311.02",
+        "availability": 9
+    },
+    {
+        "id": "205",
+        "outbound": {
+            "duration": "PT5H20M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H50M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H25M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "316.28",
+        "availability": 3
+    },
+    {
+        "id": "206",
+        "outbound": {
+            "duration": "PT5H20M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H25M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "316.28",
+        "availability": 3
+    },
+    {
+        "id": "207",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H50M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H25M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "316.65",
+        "availability": 3
+    },
+    {
+        "id": "208",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H25M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "316.65",
+        "availability": 3
+    },
+    {
+        "id": "209",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "price": "319.74",
+        "availability": 9
+    },
+    {
+        "id": "210",
+        "outbound": {
+            "duration": "PT2H15M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "price": "319.74",
+        "availability": 9
+    },
+    {
+        "id": "211",
+        "outbound": {
+            "duration": "PT5H35M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H30M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "price": "338.28",
+        "availability": 9
+    },
+    {
+        "id": "212",
+        "outbound": {
+            "duration": "PT5H35M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H30M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "price": "338.28",
+        "availability": 9
+    },
+    {
+        "id": "213",
+        "outbound": {
+            "duration": "PT5H35M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H40M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H25M"
+                ]
+            ]
+        },
+        "price": "338.28",
+        "availability": 9
+    },
+    {
+        "id": "214",
+        "outbound": {
+            "duration": "PT5H35M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H40M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H25M"
+                ]
+            ]
+        },
+        "price": "338.28",
+        "availability": 9
+    },
+    {
+        "id": "215",
+        "outbound": {
+            "duration": "PT5H35M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H30M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H40M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "338.28",
+        "availability": 9
+    },
+    {
+        "id": "216",
+        "outbound": {
+            "duration": "PT5H35M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H30M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H40M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "338.28",
+        "availability": 9
+    },
+    {
+        "id": "217",
+        "outbound": {
+            "duration": "PT5H",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H15M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H30M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "price": "339.08",
+        "availability": 9
+    },
+    {
+        "id": "218",
+        "outbound": {
+            "duration": "PT5H",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H15M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H40M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H25M"
+                ]
+            ]
+        },
+        "price": "339.08",
+        "availability": 9
+    },
+    {
+        "id": "219",
+        "outbound": {
+            "duration": "PT5H",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H15M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H30M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H40M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "339.08",
+        "availability": 9
+    },
+    {
+        "id": "220",
+        "outbound": {
+            "duration": "PT2H15M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H30M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "price": "347.65",
+        "availability": 9
+    },
+    {
+        "id": "221",
+        "outbound": {
+            "duration": "PT2H15M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H40M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H25M"
+                ]
+            ]
+        },
+        "price": "347.65",
+        "availability": 9
+    },
+    {
+        "id": "222",
+        "outbound": {
+            "duration": "PT2H15M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H30M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H40M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "347.65",
+        "availability": 9
+    },
+    {
+        "id": "223",
+        "outbound": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H50M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H25M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "348.65",
+        "availability": 3
+    },
+    {
+        "id": "224",
+        "outbound": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H25M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "348.65",
+        "availability": 3
+    },
+    {
+        "id": "225",
+        "outbound": {
+            "duration": "PT5H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H15M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H30M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "price": "351.08",
+        "availability": 9
+    },
+    {
+        "id": "226",
+        "outbound": {
+            "duration": "PT5H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H15M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H40M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H25M"
+                ]
+            ]
+        },
+        "price": "351.08",
+        "availability": 9
+    },
+    {
+        "id": "227",
+        "outbound": {
+            "duration": "PT5H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H15M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H35M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H30M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H40M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "351.08",
+        "availability": 9
+    },
+    {
+        "id": "228",
+        "outbound": {
+            "duration": "PT4H30M",
+            "steps": [
+                [
+                    "CDG",
+                    "ZRH",
+                    "PT1H15M"
+                ],
+                [
+                    "ZRH",
+                    "MAD",
+                    "PT2H25M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H30M",
+            "steps": [
+                [
+                    "MAD",
+                    "FRA",
+                    "PT2H30M"
+                ],
+                [
+                    "FRA",
+                    "CDG",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "price": "357.36",
+        "availability": 9
+    },
+    {
+        "id": "229",
+        "outbound": {
+            "duration": "PT5H",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H20M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H30M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "price": "359.08",
+        "availability": 9
+    },
+    {
+        "id": "230",
+        "outbound": {
+            "duration": "PT5H",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H20M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H40M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H25M"
+                ]
+            ]
+        },
+        "price": "359.08",
+        "availability": 9
+    },
+    {
+        "id": "231",
+        "outbound": {
+            "duration": "PT5H",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H20M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H30M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H40M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "359.08",
+        "availability": 9
+    },
+    {
+        "id": "232",
+        "outbound": {
+            "duration": "PT2H15M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H30M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "price": "363.65",
+        "availability": 8
+    },
+    {
+        "id": "233",
+        "outbound": {
+            "duration": "PT2H15M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H40M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H25M"
+                ]
+            ]
+        },
+        "price": "363.65",
+        "availability": 8
+    },
+    {
+        "id": "234",
+        "outbound": {
+            "duration": "PT2H15M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H15M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H30M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H40M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "363.65",
+        "availability": 8
+    },
+    {
+        "id": "235",
+        "outbound": {
+            "duration": "PT5H20M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H30M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "price": "379.28",
+        "availability": 9
+    },
+    {
+        "id": "236",
+        "outbound": {
+            "duration": "PT5H20M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H40M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H25M"
+                ]
+            ]
+        },
+        "price": "379.28",
+        "availability": 9
+    },
+    {
+        "id": "237",
+        "outbound": {
+            "duration": "PT5H20M",
+            "steps": [
+                [
+                    "CDG",
+                    "AMS",
+                    "PT1H25M"
+                ],
+                [
+                    "AMS",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H30M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H40M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "379.28",
+        "availability": 9
+    },
+    {
+        "id": "238",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H30M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "price": "379.65",
+        "availability": 9
+    },
+    {
+        "id": "239",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H40M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H25M"
+                ]
+            ]
+        },
+        "price": "379.65",
+        "availability": 9
+    },
+    {
+        "id": "240",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H30M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H40M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "379.65",
+        "availability": 9
+    },
+    {
+        "id": "241",
+        "outbound": {
+            "duration": "PT2H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H5M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H10M",
+            "steps": [
+                [
+                    "MAD",
+                    "BCN",
+                    "PT1H20M"
+                ],
+                [
+                    "BCN",
+                    "ORY",
+                    "PT1H50M"
+                ]
+            ]
+        },
+        "price": "400.56",
+        "availability": 4
+    },
+    {
+        "id": "242",
+        "outbound": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H10M",
+            "steps": [
+                [
+                    "MAD",
+                    "BCN",
+                    "PT1H20M"
+                ],
+                [
+                    "BCN",
+                    "ORY",
+                    "PT1H50M"
+                ]
+            ]
+        },
+        "price": "400.56",
+        "availability": 4
+    },
+    {
+        "id": "243",
+        "outbound": {
+            "duration": "PT5H30M",
+            "steps": [
+                [
+                    "CDG",
+                    "MUC",
+                    "PT1H30M"
+                ],
+                [
+                    "MUC",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H30M",
+            "steps": [
+                [
+                    "MAD",
+                    "FRA",
+                    "PT2H30M"
+                ],
+                [
+                    "FRA",
+                    "CDG",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "price": "409.44",
+        "availability": 9
+    },
+    {
+        "id": "244",
+        "outbound": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H55M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H30M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "price": "410.65",
+        "availability": 9
+    },
+    {
+        "id": "245",
+        "outbound": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H5M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H40M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H25M"
+                ]
+            ]
+        },
+        "price": "410.65",
+        "availability": 9
+    },
+    {
+        "id": "246",
+        "outbound": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "CDG",
+                    "MAD",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT5H30M",
+            "steps": [
+                [
+                    "MAD",
+                    "AMS",
+                    "PT2H40M"
+                ],
+                [
+                    "AMS",
+                    "CDG",
+                    "PT1H20M"
+                ]
+            ]
+        },
+        "price": "410.65",
+        "availability": 9
+    },
+    {
+        "id": "247",
+        "outbound": {
+            "duration": "PT5H20M",
+            "steps": [
+                [
+                    "CDG",
+                    "MUC",
+                    "PT1H30M"
+                ],
+                [
+                    "MUC",
+                    "MAD",
+                    "PT2H40M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT4H30M",
+            "steps": [
+                [
+                    "MAD",
+                    "FRA",
+                    "PT2H30M"
+                ],
+                [
+                    "FRA",
+                    "CDG",
+                    "PT1H15M"
+                ]
+            ]
+        },
+        "price": "429.44",
+        "availability": 9
+    },
+    {
+        "id": "248",
+        "outbound": {
+            "duration": "PT15H5M",
+            "steps": [
+                [
+                    "CDG",
+                    "ATH",
+                    "PT3H5M"
+                ],
+                [
+                    "ATH",
+                    "MAD",
+                    "PT3H50M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT10H20M",
+            "steps": [
+                [
+                    "MAD",
+                    "ATH",
+                    "PT3H30M"
+                ],
+                [
+                    "ATH",
+                    "CDG",
+                    "PT3H30M"
+                ]
+            ]
+        },
+        "price": "799.12",
+        "availability": 9
+    },
+    {
+        "id": "249",
+        "outbound": {
+            "duration": "PT5H15M",
+            "steps": [
+                [
+                    "CDG",
+                    "LHR",
+                    "PT1H30M"
+                ],
+                [
+                    "LHR",
+                    "MAD",
+                    "PT1H30M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "price": "984.65",
+        "availability": 9
+    },
+    {
+        "id": "250",
+        "outbound": {
+            "duration": "PT5H30M",
+            "steps": [
+                [
+                    "CDG",
+                    "LHR",
+                    "PT1H30M"
+                ],
+                [
+                    "LHR",
+                    "MAD",
+                    "PT1H30M"
+                ]
+            ]
+        },
+        "return": {
+            "duration": "PT2H10M",
+            "steps": [
+                [
+                    "MAD",
+                    "CDG",
+                    "PT2H10M"
+                ]
+            ]
+        },
+        "price": "984.65",
+        "availability": 8
+    }
+]
