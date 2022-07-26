@@ -58,10 +58,7 @@ def process_data(city, is_detail, limit):
 
     print(response.status_code, response.url)
     soup = BeautifulSoup(response.text, "lxml")
-    with open("/Users/Shared/Files From d.localized/ESGI4/projetannuel/api-amadeus/output.html", "w", encoding = 'utf-8') as file:
-    
-    # prettify the soup object and convert it into a string  
-        file.write(str(soup.prettify()))
+
     if limit < 0:
         max_offset = int(get_max_offset(soup))
     elif limit > 0:

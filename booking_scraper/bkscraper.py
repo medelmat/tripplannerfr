@@ -66,10 +66,7 @@ def process_data(people, country, city, datein, dateout, is_detail, limit):
     response = session.get(starting_url, headers=REQUEST_HEADER)
     time.sleep(5)
     soup = BeautifulSoup(response.text, "lxml")
-    with open("/Users/Shared/Files From d.localized/ESGI4/projetannuel/api-amadeus/output.html", "w", encoding = 'utf-8') as file:
-    
-    # prettify the soup object and convert it into a string  
-        file.write(str(soup.prettify()))
+   
     if limit < 0:
         max_offset = int(get_max_offset(soup))
     elif limit > 0:
@@ -124,10 +121,7 @@ def parsing_data(session, people, country, city, datein, dateout, offset, is_det
             print("[~] It will take a while with details")
 
     for hotel in hotels:
-        with open("/Users/Shared/Files From d.localized/ESGI4/projetannuel/api-amadeus/hotel.html", "w", encoding = 'utf-8') as file:
-    
-    # prettify the soup object and convert it into a string  
-            file.write(str(hotel.prettify()))
+
         hotel_info = {}
 
         hotel_info['name'] = core.get_hotel_name(hotel)

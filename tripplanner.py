@@ -21,7 +21,6 @@ def build_plans(booking_data, flight_data, restaurant_data):
 	bookings['price'] = bookings['price'].apply(lambda x: float(str(x).replace('€','')) )
 	#bookings['price'] = bookings['price'].apply(lambda x: round(float(x.replace('£', ''))*Currency, 2) if '£' in x else x)
 
-	bookings.to_json(r'bookings_formatedprice.json')
 
 	bookings_median = bookings['price'].median() * 1.01
 
