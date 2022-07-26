@@ -52,19 +52,19 @@ def bookinghotel():
 		destination_date = form.arrival_date.data
 		adults = form.number_pers.data
 
-		hotels_offers = bkscraper.get_result(city=destination, people=int(adults), datein=depart_date, dateout=destination_date,limit=1, detail=True)
-		flights_offers = get_flights(depart, destination, depart_date, destination_date, adults)
-		restaurants_offers = yelpscraper.get_result(city=destination, limit=1, detail=True)
+		# hotels_offers = bkscraper.get_result(city=destination, people=int(adults), datein=depart_date, dateout=destination_date,limit=1, detail=True)
+		# flights_offers = get_flights(depart, destination, depart_date, destination_date, adults)
+		# restaurants_offers = yelpscraper.get_result(city=destination, limit=1, detail=True)
 
-		with open("hotels_offers.json", 'w', encoding='utf-8') as f:
-		    json.dump(hotels_offers[0], f, ensure_ascii=False, indent=4)
-		    f.close()
-		with open("flights_offers.json", 'w', encoding='utf-8') as f:
-		    json.dump(flights_offers, f, ensure_ascii=False, indent=4)
-		    f.close()
-		with open("restaurants_offers.json", 'w', encoding='utf-8') as f:
-		    json.dump(restaurants_offers[0], f, ensure_ascii=False, indent=4)
-		    f.close()
+		# with open("hotels_offers.json", 'w', encoding='utf-8') as f:
+		#     json.dump(hotels_offers[0], f, ensure_ascii=False, indent=4)
+		#     f.close()
+		# with open("flights_offers.json", 'w', encoding='utf-8') as f:
+		#     json.dump(flights_offers, f, ensure_ascii=False, indent=4)
+		#     f.close()
+		# with open("restaurants_offers.json", 'w', encoding='utf-8') as f:
+		#     json.dump(restaurants_offers[0], f, ensure_ascii=False, indent=4)
+		#     f.close()
 
 		print(depart, destination, depart_date, destination_date, adults)
 
